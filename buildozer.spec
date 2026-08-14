@@ -17,11 +17,12 @@ warn_on_root = 0
 
 [android]
 
-android.archs = arm64-v8a, armeabi-v7a
+android.archs = armeabi-v7a
 android.api = 30
 android.minapi = 21
 android.accept_sdk_license = True
+android.build_tools_version = "30.0.3"
 p4a.branch = stable
 p4a.bootstrap = sdl2
 
-[iOS]
+[iOS]ФФЫ
