@@ -21,7 +21,8 @@ android.archs = armeabi-v7a
 android.api = 30
 android.minapi = 21
 android.accept_sdk_license = True
-android.build_tools_version = "30.0.3"
+android.build_tools_versions = 30.0.3
+android.skip_update = True
 p4a.branch = stable
 p4a.bootstrap = sdl2
 
