@@ -25,4 +25,4 @@ android.build_tools_version = "30.0.3"
 p4a.branch = stable
 p4a.bootstrap = sdl2
 
-[iOS]ФФЫ
+[iOS]
